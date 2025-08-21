@@ -57,7 +57,8 @@ I'm a **Computer Science student** who loves building creative things—whether 
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=vikaskushwaha97&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Top Contributed Repo](https://github-contribution-stats.vercel.app/api?username=vikaskushwaha97&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 ---
 
