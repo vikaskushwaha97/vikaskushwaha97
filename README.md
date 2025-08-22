@@ -1,14 +1,14 @@
-# Hi there, I'm Vikas Kushwaha! 👋
+# Hi there, I'm Vikas Kushwaha! 
 
 I'm a **Computer Science student** who loves building creative things—whether it's web apps, cross-platform applications, or cool Java projects. My passion lies in turning ideas into real products, learning new technologies, and sharing my journey with the community.
 
 ---
 
-## 🚀 About Me
-- 🎓 CS Major, always learning and exploring
-- 💡 Creating web apps, cross-platform applications, and Java projects
-- 👨‍💻 Fueled by curiosity, creativity, and code
-- 🌱 Currently mastering full stack development & modern UI frameworks
+##  About Me
+-- CS Major, always learning and exploring
+-- Creating web apps, cross-platform applications, and Java projects
+-- Fueled by curiosity, creativity, and code
+-- Currently mastering full stack development & modern UI frameworks
 
 ---
 
